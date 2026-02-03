@@ -8,7 +8,7 @@ Most of my OSS contributions focus on interaction and systems design.
 
 Here's where I usually toil:
 
-[Mupen64](https://github.com/mupen64/mupen64-rr-lua) as lead maintainer
+[Mupen64](https://github.com/mupen64/mupen64-rr-lua) as lead maintainer since 2021
 
-[Key2Joy](https://github.com/Key2Joy/Key2Joy) as a somewhat active co-maintainer
+[Key2Joy](https://github.com/Key2Joy/Key2Joy) as a somewhat active co-maintainer since 2025
 
