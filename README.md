@@ -16,3 +16,6 @@ Here's where I usually toil at least semi-actively:
 
 [Key2Joy](https://github.com/Key2Joy/Key2Joy) as a somewhat active co-maintainer since 2025
 
+[TAS Comp Bot](https://github.com/bxrru/TAS-Comp-Bot) as a contributor
+
+[Constructorium Games](https://github.com/Constructorium-Games) as a founder
