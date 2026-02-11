@@ -50,7 +50,7 @@ Upon noticing the dispersed Super Mario 64 TAS Lua tooling ecosystem, I pivoted 
 
 The tools were merged and made accessible while also leveraging new Mupen64 APIs to improve performance, with the added benefit of consistent upstream UI/UX improvements from ugui. 
 
-In 2025, [FramePerfection](https://github.com/FramePerfection) implemented "Semantic Workflow", a revolutionary TASing workflow that allows higher-level strategy development and greatly speeds up the TASing process. 
+In 2025, [FramePerfection](https://github.com/FramePerfection) implemented "Semantic Workflow", a revolutionary TASing workflow that allows higher-level strategy development and greatly speeds up the TASing process. During the development of this feature, ugui was given a proper workout and enhanced to handle various interesting cases as they came up. 
 
 ### ugui
 
