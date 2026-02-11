@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a software developer with a knack for elegant, performant, and user-respecting software.
+I'm a software developer with a knack for software that's elegant, performs well, and respects the user.
 
 Most of my OSS contributions focus on interaction and systems design.
 
