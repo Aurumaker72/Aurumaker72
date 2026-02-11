@@ -60,4 +60,6 @@ This project was born because I couldn't find any immediate-mode Lua GUI library
 
 ugui is currently undergoing major changes to introduce a WPF-like layout system. I'll update this section with new developments!
 
+Also, ugui isn't just for Mupen64. Its core is as portable as the Lua environment it runs in. Feel free to try it out, it's pretty ergonomic.
+
 [^1]: https://en.wikipedia.org/wiki/Tool-assisted_speedrun
