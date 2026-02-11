@@ -22,9 +22,11 @@ This project started as an experiment based on [mkdasher's SM64Lua](https://gith
 
 Initially, I made only minor improvements such as visual changes, QoL improvements, and bugfixes, but upon noticing the dispersed Super Mario 64 TAS Lua tooling ecosystem, I pivoted this project to something resembling an "everything script".
 
-The tools were merged and made accessible, with the added benefit of consistent upstream UI/UX improvements from ugui. 
+The tools were merged and made accessible while also leveraging new Mupen64 APIs to improve performance, with the added benefit of consistent upstream UI/UX improvements from ugui. 
 
-SM64LuaRedux is now the dominant TASing utility for Super Mario 64 TASing.
+In 2025, [FramePerfection](https://github.com/FramePerfection) implemented "Semantic Workflow", a revolutionary TASing workflow that allows higher-level strategy development and greatly speeds up the TASing process. 
+
+SM64LuaRedux is the dominant TASing utility for Super Mario 64 TASing since 2024.
 
 [ugui](https://github.com/mupen64/ugui) as lead maintainer since 2023.
 
