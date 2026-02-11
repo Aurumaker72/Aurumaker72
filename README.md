@@ -8,7 +8,23 @@ Most of my OSS contributions focus on interaction and systems design.
 
 Here's where I usually toil at least semi-actively, along with what it actually is that I do:
 
-[Mupen64](https://github.com/mupen64/mupen64-rr-lua) as lead maintainer since 2021.
+[Mupen64](https://github.com/mupen64/mupen64-rr-lua) as lead maintainer since 2021
+
+[SM64LuaRedux](https://github.com/mupen64/SM64LuaRedux) as lead maintainer since 2023
+
+[ugui](https://github.com/mupen64/ugui) as lead maintainer since 2023
+
+[Key2Joy](https://github.com/Key2Joy/Key2Joy) as a somewhat active co-maintainer since 2025
+
+[TAS Comp Bot](https://github.com/bxrru/TAS-Comp-Bot) as a contributor
+
+[Constructorium Games](https://github.com/Constructorium-Games) as a founder
+
+# History
+
+Here's some fun history about the projects I work on.
+
+[Mupen64](https://github.com/mupen64/mupen64-rr-lua)
 
 My work here began with minor QoL improvements and grew into iteratively re-architecting the entire project from a catastrophic legacy mess to a somewhat workable, if quirky, codebase.
 
@@ -16,7 +32,7 @@ With the architectural groundwork laid, my focus shifted to feedback-driven majo
 
 Mupen64 has been the dominant TAS emulator for Super Mario 64 for more than 14 years and it remains unchallenged thanks to its superior ecosystem.
 
-[SM64LuaRedux](https://github.com/mupen64/SM64LuaRedux) as lead maintainer since 2023.
+[SM64LuaRedux](https://github.com/mupen64/SM64LuaRedux)
 
 This project started as an experiment based on [mkdasher's SM64Lua](https://github.com/mkdasher/SM64Lua) that leveraged [ugui](https://github.com/mupen64/ugui) for GUI.
 
@@ -28,14 +44,8 @@ In 2025, [FramePerfection](https://github.com/FramePerfection) implemented "Sema
 
 SM64LuaRedux is the dominant TASing utility for Super Mario 64 TASing since 2024.
 
-[ugui](https://github.com/mupen64/ugui) as lead maintainer since 2023.
+[ugui](https://github.com/mupen64/ugui)
 
 This one's pretty banal, it's just an immediate-mode GUI framework for Lua.
 
 It also has a neat renderer abstraction called `BreitbandGraphics`, which provides a backend for rendering in Mupen64 using Direct2D.
-
-[Key2Joy](https://github.com/Key2Joy/Key2Joy) as a somewhat active co-maintainer since 2025
-
-[TAS Comp Bot](https://github.com/bxrru/TAS-Comp-Bot) as a contributor
-
-[Constructorium Games](https://github.com/Constructorium-Games) as a founder
