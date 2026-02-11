@@ -6,7 +6,7 @@ Most of my OSS contributions focus on interaction and systems design.
 
 ## Activity
 
-Here's where I usually toil at least semi-actively, along with what it actually is that I do:
+Here's where I usually toil at least semi-actively:
 
 [Mupen64](https://github.com/mupen64/mupen64-rr-lua) as lead maintainer since 2021
 
@@ -22,9 +22,11 @@ Here's where I usually toil at least semi-actively, along with what it actually 
 
 ## History
 
-Here's some fun history about the projects I work on.
+Want to learn some history about obscure software? Sure you do!
 
 ### Mupen64
+
+Mupen64 is a TASing[^1] emulator for the Nintendo 64.
 
 My work here began with minor QoL improvements and grew into iteratively re-architecting the entire project to a workable codebase.
 
@@ -36,9 +38,11 @@ In September 2025, I found 4 open-source plugins (for a full plugin set, thanks 
 
 By January 2026, the project was finalized and we now have a reliable and highly performant plugin set. 
 
-Due to its tooling ecosystem and relative ease of use, Mupen64 remains the preferred emulator for Super Mario 64 TASing[^1].
+Due to its tooling ecosystem and relative ease of use, Mupen64 remains the preferred emulator for Super Mario 64 TASing.
 
 ### SM64LuaRedux
+
+SM64LuaRedux is a Lua workspace for Super Mario 64 TASing that runs inside Mupen64.
 
 I started this project as an experiment based on [mkdasher's SM64Lua](https://github.com/mkdasher/SM64Lua) that leveraged [ugui](https://github.com/mupen64/ugui) for GUI with only minor improvements and visual changes.
 
@@ -50,8 +54,10 @@ In 2025, [FramePerfection](https://github.com/FramePerfection) implemented "Sema
 
 ### ugui
 
-This one's pretty banal, it's just an immediate-mode GUI framework for Lua.
+ugui is an immediate-mode GUI framework for Lua. It also implements a renderer abstraction called `BreitbandGraphics`, which provides a backend for rendering in Mupen64 using Direct2D.
 
-It also implements a renderer abstraction called `BreitbandGraphics`, which provides a backend for rendering in Mupen64 using Direct2D.
+This project was born because I couldn't find any immediate-mode Lua GUI library that was trivial to include in a project, hackable, and had an easy-to-understand API.
+
+ugui is currently undergoing major changes to introduce a WPF-like layout system. I'll update this section with new developments!
 
 [^1]: https://en.wikipedia.org/wiki/Tool-assisted_speedrun
