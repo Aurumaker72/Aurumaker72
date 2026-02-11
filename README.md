@@ -12,7 +12,9 @@ Here's where I usually toil at least semi-actively, along with what it actually 
 
 My work here began with minor QoL improvements and grew into iteratively re-architecting the entire project from a catastrophic legacy mess to a somewhat workable, if quirky, codebase.
 
-With the architectural groundwork laid, my focus shifted to feedback-driven major feature development, QoL, and performance. 
+With the architectural groundwork laid, my focus shifted to feedback-driven major feature development, QoL, and performance.
+
+Mupen64 has been the dominant TAS emulator for Super Mario 64 for more than 14 years and it remains unchallenged thanks to its superior ecosystem.
 
 [SM64LuaRedux](https://github.com/mupen64/SM64LuaRedux) as lead maintainer since 2023.
 
