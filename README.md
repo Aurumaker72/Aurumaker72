@@ -1,10 +1,10 @@
-# About Me
+## About Me
 
 I'm a software developer with a knack for elegant, performant, and user-respecting software.
 
 Most of my OSS contributions focus on interaction and systems design.
 
-# Activity
+## Activity
 
 Here's where I usually toil at least semi-actively, along with what it actually is that I do:
 
@@ -20,11 +20,11 @@ Here's where I usually toil at least semi-actively, along with what it actually 
 
 [Constructorium Games](https://github.com/Constructorium-Games) as a founder
 
-# History
+## History
 
 Here's some fun history about the projects I work on.
 
-[Mupen64](https://github.com/mupen64/mupen64-rr-lua)
+### Mupen64
 
 My work here began with minor QoL improvements and grew into iteratively re-architecting the entire project to a workable codebase.
 
@@ -38,7 +38,7 @@ By January 2026, the project was finalized and we now have a reliable and highly
 
 Due to its tooling ecosystem and relative ease of use, Mupen64 remains the preferred emulator for Super Mario 64 TASing[^1].
 
-[SM64LuaRedux](https://github.com/mupen64/SM64LuaRedux)
+### SM64LuaRedux
 
 I started this project as an experiment based on [mkdasher's SM64Lua](https://github.com/mkdasher/SM64Lua) that leveraged [ugui](https://github.com/mupen64/ugui) for GUI with only minor improvements and visual changes.
 
@@ -48,7 +48,7 @@ The tools were merged and made accessible while also leveraging new Mupen64 APIs
 
 In 2025, [FramePerfection](https://github.com/FramePerfection) implemented "Semantic Workflow", a revolutionary TASing workflow that allows higher-level strategy development and greatly speeds up the TASing process. 
 
-[ugui](https://github.com/mupen64/ugui)
+### ugui
 
 This one's pretty banal, it's just an immediate-mode GUI framework for Lua.
 
