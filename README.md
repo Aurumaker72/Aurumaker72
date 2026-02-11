@@ -34,9 +34,9 @@ With the architectural groundwork laid, my focus shifted to feedback-driven majo
 
 Mupen64 requires plugins for its emulation core to function. For a long time, the only option was a partially closed-source plugin set that decayed with each Windows update.
 
-In September 2025, I found 4 open-source plugins (for a full plugin set, thanks to [Crackhex](https://github.com/Crackhex) for finding the RSP plugin) and began gradually adapting them to modern requirements.
+In September 2025, work began to remedy this by finding 4 open-source plugins (for a full plugin set, thanks to [Crackhex](https://github.com/Crackhex) for finding the RSP plugin) and gradually adapting them to modern requirements.
 
-By January 2026, the project was finalized and we now have a reliable and highly performant plugin set. 
+By January 2026, the plugin modernization project was finalized. We now have a reliable and highly performant plugin set with much lower maintenance overhead.
 
 Due to its tooling ecosystem and relative ease of use, Mupen64 remains the preferred emulator for Super Mario 64 TASing.
 
