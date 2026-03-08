@@ -14,7 +14,7 @@ Here's where I usually toil at least semi-actively:
 
 [ugui](https://github.com/mupen64/ugui) as lead maintainer since 2023
 
-[Key2Joy](https://github.com/Key2Joy/Key2Joy) as a somewhat active co-maintainer since 2025
+[Key2Joy](https://github.com/Key2Joy/Key2Joy) as a not-so-active co-maintainer since 2025
 
 [TAS Comp Bot](https://github.com/bxrru/TAS-Comp-Bot) as a contributor
 
